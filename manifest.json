@@ -1,0 +1,1 @@
+{"manifest_version":3,"name":"GLaDOS 自动签到","version":"2.1.0","description":"固定或当天随机时间签到，失败后按自定义间隔重试。","permissions":["alarms","notifications","scripting","storage","tabs"],"host_permissions":["https://www.glados.one/*"],"background":{"service_worker":"background.js","type":"module"},"action":{"default_title":"GLaDOS 自动签到","default_popup":"popup.html"}}
