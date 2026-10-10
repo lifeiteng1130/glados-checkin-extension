@@ -1,0 +1,32 @@
+.gitignore
+  h_50696f490d2dda 1-5
+README.md
+  h_50696f490d2dda 1-86
+background.js
+  h_50696f490d2dda 1-12
+manifest.json
+  h_50696f490d2dda 1
+package.json
+  h_50696f490d2dda 1
+popup.css
+  h_50696f490d2dda 1
+popup.html
+  h_50696f490d2dda 1
+popup.js
+  h_50696f490d2dda 1
+src/checkin-core.js
+  h_50696f490d2dda 1-11
+tests/extension.test.mjs
+  h_50696f490d2dda 1-7
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "42bdbb411889da850a578d01b8acdbeaa6e8c6b7",
+  "prompts": {},
+  "humans": {
+    "h_50696f490d2dda": {
+      "author": "ftli <ftli@leqee.com>"
+    }
+  }
+}
